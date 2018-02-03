@@ -238,7 +238,7 @@ Pliny the Elder
 Prafulla Chandra Ray
 Pythagoras
 Rachel Carson
-René Descartes
+Rene Descartes
 Richard Feynman
 Rita Levi Montalcini
 Robert Boyle
@@ -281,7 +281,7 @@ Werner Heisenberg
 Wernher Von Braun
 Wilbur and Orville Wright
 Wilhelm Conrad Roentgen
-Wilhelm Röntgen
+Wilhelm Rontgen
 Wilhelm Wundt
 William Buckland
 William Gilbert
